@@ -26,7 +26,7 @@
             border-radius: 50%;
             border: 5px solid black;
             background-size: cover;
-            background-image: url('qw.jpg');
+            background-image: url('/qw.jpg');
             cursor: pointer;
         }
     </style>
